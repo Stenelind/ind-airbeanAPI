@@ -73,4 +73,3 @@ const menu = [
         "about": "Välkommen till kafferosteri Power Nappers - en passionerad bryggning av tradition och innovation. Vi är en familjeägd verksamhet dedikerad till att erbjuda kaffe av högsta kvalitet, från böna till kopp. Genom noggrant utvalda kaffebönor från de bästa odlingarna runt om i världen och en expertis i rostning som sträcker sig över generationer, skapar vi unika smakupplevelser som tillfredsställer alla sinnen. Upplev koncentrationen av kaffe i sin renaste form med vår cortado. En harmonisk kombination av espresso och ånga mjölk, vars delikata balans av styrka och lenhet ger en njutbar kaffepaus. För den som söker en elegant och kraftfull smakupplevelse."
     }
 ]
-
